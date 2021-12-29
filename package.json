@@ -4,7 +4,7 @@
   "description": "An example using social auth as user signup",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon src/index.js"
   },
   "author": "latreta",
   "license": "MIT",
